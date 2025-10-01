@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch MainGame",
+      "request": "launch",
+      "mainClass": "Tests.MainGame"
+    }
+  ]
+}
